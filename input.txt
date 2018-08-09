@@ -1,0 +1,344 @@
+0 0 0 17 17 ka_h'hoa sinh ngày 6 tháng 11 năm 1987 quê_quán ở xã đắk_plao , huyện đắk_glong , tỉnh đắk_nông
+0 0 0 18 18 đào_đức_toàn sinh ngày 24 tháng 12 năm 1962 , quê_quán : xã chi_lăng , huyện quế_võ , tỉnh bắc_ninh
+0 0 0 10 10 hoàng_thanh_tùng quê_quán ở xã lăng_thành , huyện yên_thành , tỉnh nghệ_an
+0 0 0 17 17 hà_thị_lan sinh ngày 4 tháng 9 năm 1978 quê_quán ở xã nông_hạ , huyện chợ_mới , tỉnh bắc_kạn
+0 0 0 17 17 hứa_thị_hà sinh ngày 18 tháng 7 năm 1983 quê_quán ở xã sơn_nam , huyện sơn_dương , tỉnh tuyên_quang
+0 0 0 18 18 đinh_văn_thu sinh ngày 25 tháng 10 năm 1959 , quê_quán xã điện phước , huyện điện_bàn , tỉnh quảng_nam
+0 0 0 17 17 hoàng_duy_chinh sinh ngày 15 tháng 9 năm 1968 quê_quán ở xã nam_cường , huyện chợ_đồn , tỉnh bắc_kạn
+0 0 0 17 17 nguyễn_kim_tuyến sinh ngày 10 tháng 12 năm 1977 quê_quán ở xã tân_phú , thị_xã cai_lậy , tỉnh tiền_giang
+0 0 0 10 10 hồ_quỳnh_hương ( sinh 16 tháng 10 năm 1980 , tại hạ_long , quảng_ninh ) là một ca_sĩ nổi_tiếng người việt_nam , cô nhận được 2 đề_cử và giành 1 giải cống_hiến , được biết đến với hai lần tốt_nghiệp xuất_sắc ( danh_hiệu thủ_khoa ) chuyên_ngành thanh_nhạc trường đại_học văn_hoá - nghệ_thuật quân_đội ( một lần vào năm 2002 khi trường còn là trường cao_đẳng văn_hoá - nghệ_thuật quân_đội và lần thứ hai vào năm 2013 sau khi trường đã đổi tên thành đại_học văn_hoá - nghệ_thuật quân_đội )
+0 0 0 13 13 hoàng_xuân_ánh sinh năm 1964 , quê_quán thị_trấn đông_khê , huyện thạch_an , tỉnh cao_bằng ;
+0 0 0 17 17 y_tru_alio sinh ngày 3 tháng 9 năm 1959 quê_quán ở xã êa_tiêu , huyện cư_kuin , tỉnh đắk_lắk
+0 0 0 17 17 hoàng_thị_thu_trang sinh ngày 11 tháng 10 năm 1981 quê_quán ở xã hưng_lĩnh , huyện hưng_nguyên , tỉnh nghệ_an
+0 0 0 17 17 trương_thị_bích_hạnh sinh ngày 28 tháng 10 năm 1975 quê_quán ở phường định_hoà , thành_phố thủ_dầu_một , tỉnh bình_dương
+0 0 0 10 10 hoàng_công_hàm quê ở xã quang_lang , huyện chi_lăng , tỉnh lạng_sơn
+0 2 2 19 19 kiến trúc_sư huỳnh_tấn_phát sinh ngày 15 tháng 2 năm 1913 , tại xã châu_hưng , huyện bình_đại , tỉnh mỹ_tho ( nay thuộc tỉnh bến_tre )
+0 0 0 18 18 đặng_tuyết_em sinh ngày 28 tháng 11 năm 1960 , quê_quán xã thạnh_yên_a , huyện u_minh thượng , tỉnh kiên_giang
+0 0 0 17 17 đoàn_thị_thanh_mai sinh ngày 13 tháng 11 năm 1971 quê_quán ở xã hải_triều , huyện tiên_lữ , tỉnh hưng_yên
+0 0 0 20 20 đỗ_văn_đương ( sinh ngày 10 tháng 10 năm 1960 tại làng ngọc_lặc , xã ngọc_sơn , huyện tứ_kỳ , tỉnh hải_dương ) là một chính_trị_gia người việt_nam
+0 0 0 10 10 hoàng_văn_liên quê_quán ở xã tiến_lộc , huyện hậu_lộc , tỉnh thanh_hoá
+0 0 0 17 17 đôn_tuấn_phong sinh ngày 27 tháng 7 năm 1970 quê_quán ở xã phượng_cách , huyện quốc_oai , tp hà_nội
+0 0 0 12 12 hồ_quỳnh_hương ( sinh 16 tháng 10 năm 1980 , tại hạ_long , quảng_ninh ) là một ca_sĩ nổi_tiếng người việt_nam , cô nhận được 2 đề_cử và giành 1 giải cống_hiến , được biết đến với hai lần tốt_nghiệp xuất_sắc ( danh_hiệu thủ_khoa ) chuyên_ngành thanh_nhạc trường đại_học văn_hoá - nghệ_thuật quân_đội ( một lần vào năm 2002 khi trường còn là trường cao_đẳng văn_hoá - nghệ_thuật quân_đội và lần thứ hai vào năm 2013 sau khi trường đã đổi tên thành đại_học văn_hoá - nghệ_thuật quân_đội )
+0 0 0 16 16 trịnh_ngọc_thuý sinh ngày 19 tháng 1 năm 1967 quê_quán ở phường phú_thạnh , quận tân_phú , sài_gòn
+0 0 0 17 17 huỳnh_thanh_cảnh sinh ngày 10 tháng 11 năm 1961 quê_quán ở xã hàm_chính , huyện hàm_thuận_bắc , tỉnh bình_thuận
+0 0 0 4 4 lệ_quyên sinh ra tại hà_nội , trong gia_đình có 4 anh_chị_em , cô là con út
+2 7 7 13 13 sau khi tốt_nghiệp trường đại_học huflit , phạm_toàn_thắng mới quay trở_lại với vai_trò nhạc_sĩ
+2 0 0 22 22 đàm_vĩnh_hưng tên thật là huỳnh_minh_hưng ( sinh ngày 2 tháng 10 năm 1971 ) , còn có biệt_danh mr_đàm , là một ca_sĩ việt_nam
+2 7 7 8 8 một điểm đặc_biệt trong sự_nghiệp của nữ ca_sĩ cẩm_vân là chị tham_dự rất nhiều những liên_hoan , những cuộc thi âm_nhạc từ nghiệp_dư đến chuyên_nghiệp và đoạt được rất nhiều huy_chương vàng mà không có huy_chương nào là bạc hay đồng cả
+2 0 0 11 11 vân_khánh ( quê ở vĩnh_thành , vĩnh_linh , quảng_trị ) là ca_sĩ thành_danh với dòng nhạc dân_ca , quê_hương
+2 28 28 54 54 ngày 13 tháng 11 năm 2011 , tại nhà_hàng grand_garden , thành_phố westminster , thông_qua chương_trình kỷ_niệm 45 năm ca_hát và 40 năm hành_nghề y_khoa , lần đầu_tiên trung_chỉnh đã có cuộc hạnh_ngộ với những_ai từng yêu_mến tiếng hát của ông và đây cũng là đêm nhạc " nhìn lại " chặng đường của ca_sĩ - bác_sĩ quân_y thuỷ_quân_lục_chiến việt_nam cộng_hoà trung_chỉnh
+0 0 0 18 18 lê_thị_yến sinh ngày 1 tháng 12 năm 1962 quê_quán ở xã vụ cầu , huyện hạ_hoà , tỉnh phú_thọ
+2 0 0 16 16 hồ_quỳnh_hương ( sinh 16 tháng 10 năm 1980 , tại hạ_long , quảng_ninh ) là một ca_sĩ nổi_tiếng người việt_nam , cô nhận được 2 đề_cử và giành 1 giải cống_hiến , được biết đến với hai lần tốt_nghiệp xuất_sắc ( danh_hiệu thủ_khoa ) chuyên_ngành thanh_nhạc trường đại_học văn_hoá - nghệ_thuật quân_đội ( một lần vào năm 2002 khi trường còn là trường cao_đẳng văn_hoá - nghệ_thuật quân_đội và lần thứ hai vào năm 2013 sau khi trường đã đổi tên thành đại_học văn_hoá - nghệ_thuật quân_đội )
+0 0 0 10 10 tráng_thị_xuân quê_quán ở xã suối_tọ , huyện phù_yên , tỉnh sơn_la
+0 0 0 17 17 hồ_thị_kim_ngân sinh ngày 2 tháng 3 năm 1978 quê_quán ở xã phùng_chí_kiên , huyện mỹ_hào , tỉnh hưng_yên
+2 0 0 14 14 lương_bích_hữu ( chữ hán : 梁碧友 ; sinh năm 1984 ) là một nữ ca_sĩ người việt gốc hoa được biết đến nhiều qua các ca_khúc dành cho giới trẻ
+0 0 0 17 17 nguyễn_xuân_sơn sinh ngày 2 tháng 9 năm 1962 , quê_quán xã tràng_sơn , huyện đô_lương , tỉnh nghệ_an
+0 0 0 18 18 đỗ_đức_duy sinh ngày 20 tháng 5 năm 1970 , quê_quán : xã thuỵ_văn , huyện thái_thuỵ , tỉnh thái_bình
+1 0 0 16 16 dương_xuân_hoà hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh lạng_sơn , phó trưởng_đoàn chuyên_trách đoàn đại_biểu quốc_hội tỉnh lạng_sơn , uỷ_viên uỷ_ban về các vấn_đề xã_hội của quốc_hội
+1 5 5 19 19 sau đại_hội đại_biểu đảng_bộ tỉnh nam_định lần thứ xix , nhiệm_kỳ 2015 - 2020 , ngày 24/9/2015 , ông nguyễn_khắc_hưng nghỉ hưu theo chế_độ
+1 18 18 35 35 ngày 21/1/2018 , đoàn công_tác của ban tổ_chức trung_ương đã có buổi làm_việc với cán_bộ chủ_chốt của tỉnh hậu_giang để công_bố quyết_định của bộ_chính_trị về việc chuẩn_y chức_danh bí_thư tỉnh_uỷ hậu_giang nhiệm_kỳ 2015-2020 đối_với ông lữ_văn_hùng
+1 0 0 12 12 bùi_văn_phương hiện là tỉnh_uỷ_viên , phó trưởng_đoàn chuyên_trách đoàn đại_biểu quốc_hội tỉnh ninh_bình , uỷ_viên uỷ_ban tài_chính , ngân_sách của quốc_hội ( đại_biểu chuyên_trách : địa_phương )
+1 0 0 12 12 dương_xuân_hoà hiện là tỉnh_uỷ_viên , phó trưởng_đoàn chuyên_trách đoàn đại_biểu quốc_hội tỉnh lạng_sơn , uỷ_viên uỷ_ban về các vấn_đề xã_hội của quốc_hội
+1 6 6 18 18 tại kì họp này , bà hoàng_thị_thuý_lan , bí_thư tỉnh_uỷ được được bầu giữ chức_vụ chủ_tịch hđnd tỉnh vĩnh_phúc khoá xv , nhiệm_kỳ 2011 - 2016 với 47/48 phiếu đồng_ý
+1 0 0 9 9 hà_thị_minh_tâm đang làm_việc ở uỷ_ban mặt_trận tổ_quốc việt_nam tỉnh hà_nam
+1 0 0 14 14 đỗ_ngọc_niễn từng là đại_biểu quốc_hội việt_nam khoá 13 nhiệm_kì 2011-2016 thuộc đoàn đại_biểu tỉnh bình_thuận
+1 0 0 6 6 hoàng_văn_liên đang làm_việc ở uỷ_ban_nhân_dân tỉnh long_an
+2 0 0 13 13 tuấn_khanh , tên thật trần_ngọc_trọng ( sinh năm 1933 ) , là một nhạc_sĩ người việt_nam
+2 8 9 23 23 nguyễn thanh_tùng hay được biết đến với nghệ_danh sơn_tùng m-tp ( sinh ngày 5 tháng 7 năm 1994 tại thái_bình ) là một ca_sĩ , nhạc_sĩ nhạc pop việt_nam
+1 0 0 14 14 đỗ_thị_thu_hằng đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh đồng_nai gồm các huyện : vĩnh_cửu , trảng_bom và thống_nhất , được 338
+2 11 11 13 13 cuối tháng 7 năm 2016 , khi nhóm 365 tan_rã , isaac trở_thành ca_sĩ hoạt_động tự_do
+1 0 0 11 11 bế_minh_đức hiện là tỉnh_uỷ_viên , phó trưởng_đoàn đại_biểu quốc_hội chuyên_trách tỉnh cao_bằng , uỷ_viên hội_đồng dân_tộc của quốc_hội ( đại_biểu chuyên_trách : địa_phương )
+1 4 4 36 36 những năm 30 , ngô_tử_hạ làm giám_đốc tạp_chí đông_thanh , hội_viên hội_đồng thành_phố hà_nội , và tham_gia trị_sự báo nam_phong , sau đó là chủ_nhân nhà_in ngô_tử_hạ và là sáng_lập_viên trường ngô_tử_hạ ở quy_hậu , tỉnh ninh_bình
+2 0 0 17 17 thu_minh ( tên đầy_đủ : vũ_thu_minh , sinh ngày 22 tháng 9 năm 1977 ) là một ca_sĩ của việt_nam , từng được đề_cử 5 lần tại giải cống_hiến , giành 1 giải mnet_asian_music_awards
+2 0 0 16 16 chí_thiện tên thật trần_chí_thiện ( sinh ngày 5 tháng 4 năm 1988 ) là một nam ca_sĩ , diễn_viên và người dẫn_chương_trình người việt_nam
+3 10 10 17 19 ngày 9/3/2017 , thủ_tướng chính_phủ nguyễn_xuân_phúc ký quyết_định để ông nguyễn_quốc_khánh thôi giữ chức_vụ chủ_tịch hội_đồng thành_viên tập_đoàn dầu_khí việt_nam để về nhận nhiệm_vụ tại bộ công_thương sau_này được biết là do những khuyết_điểm trong thời_gian lãnh_đạo pvn
+2 17 17 21 21 sáng tác của nhạc_sĩ nguyễn_văn_chung với ca_từ ngọt_ngào , nhẹ_nhàng cùng giọng hát trầm ấm đã đưa nam_cường lên hàng những ca_sĩ được yêu thích nhất
+2 3 3 4 4 năm 2004 , ca_sĩ ánh_tuyết dự_định cho giải_thể ban nhạc atb vì có quá ít nhạc tiền_chiến được các cơ_quan quản_lý_nhà_nước cho_phép lưu_hành tại việt_nam lúc đó , không đủ để trình_diễn lâu_dài
+2 0 0 10 10 hồ_mộ_la ( sinh 1931 ) , bút_danh hồng_lam , là ca_sĩ , nghệ_sĩ , nhà_giáo_ưu_tú của việt_nam
+2 0 0 14 14 lệ_quyên là ca_sĩ duy_nhất được đơn_vị giữ bản_quyền ca_khúc mời thu âm album của nhạc_sĩ
+2 6 6 25 25 tới tháng 3 năm 2015 , vũ_thắng_lợi được có tên trong đề_cử giải_thưởng âm_nhạc cống_hiến cho " nghệ_sĩ mới của năm " với lời_tựa " ca_sĩ nhạc_đỏ nối_tiếp đăng_dương , việt_hoàn , trọng_tấn với lối hát đặc_biệt khiến những bản hùng_ca thêm phần sinh_động , sâu_lắng "
+0 0 0 15 15 thái_thanh ( tên khai_sinh : phạm_thị_băng_thanh ; sinh ngày 5 tháng 8 năm 1934 tại hà_nội ) - được mệnh_danh " tiếng hát vượt thời_gian " - là một nữ ca_sĩ nổi_tiếng , được xem như một trong những giọng ca tiêu_biểu nhất của tân_nhạc việt_nam
+2 7 7 21 21 với thành_công của loạt album này , lý_hải đã xây_dựng thành_công thương_hiệu cho riêng mình và trở_thành một trong những nam ca_sĩ ăn_khách nhất_thời điểm bấy_giờ , đặc_biệt là đối_với khán_giả miền tây_nam_bộ
+3 5 5 13 14 tại đại_hội quốc_tế họp ở luân_đôn , ông ơ-giê đuy-pông người thay_mặt cho các mác đã đưa ra một dự_án ngày làm 8h .
+0 0 0 17 17 mùa_a_vảng sinh ngày 29 tháng 9 năm 1983 quê_quán ở xã sín_chải , huyện tủa_chùa , tỉnh điện_biên
+2 0 0 12 12 phạm_toàn_thắng ( sinh ngày 29 tháng 9 năm 1987 ) là một nhạc_sĩ , ca_sĩ người việt_nam
+1 0 0 14 14 hoàng_văn_trà đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh phú_yên gồm có thành_phố tuy_hoà , thị_xã sông_cầu và các huyện : đồng_xuân , tuy_an , được 256
+1 0 0 7 7 hoàng_văn_trà đang làm_việc ở văn_phòng uỷ_ban_nhân_dân tỉnh phú_yên
+0 0 0 17 17 phùng_thị_thường sinh ngày 4 tháng 8 năm 1985 quê_quán ở thị_trấn tứ_trưng , huyện vĩnh_tường , tỉnh vĩnh_phúc
+1 0 0 14 14 đặng_hoàng_tuấn đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh long_an gồm có các huyện : đức_huệ , đức_hoà , bến_lức và thủ_thừa , được 262
+3 0 0 2 6 đặng_thị_hoàng_yến tốt_nghiệp trường đại_học kinh_tế thành_phố hồ_chí_minh
+2 0 0 14 14 hồ_văn_cường ( sinh ngày 16 tháng 3 năm 2003 tại tiền_giang ) là một ca_sĩ nhỏ_tuổi người việt_nam
+2 0 0 16 16 quang_lê ( sinh 24 tháng 1 năm 1979 ) tên thật là lê_hữu_nghị , là một ca_sĩ hải ngoại , cộng_tác với trung_tâm thuý_nga từ paris_by_night 66 : người_tình và quê_hương , nhưng hiện_tại hoạt_động chủ_yếu ở việt_nam
+1 0 0 14 14 hà_thị_minh_tâm hiện là uỷ_viên ban thường_vụ tỉnh_uỷ , chủ_tịch uỷ_ban mặt_trận tổ_quốc việt_nam tỉnh hà_nam , trưởng_đoàn đại_biểu quốc_hội tỉnh hà_nam , uỷ_viên uỷ_ban tài_chính , ngân_sách của quốc_hội
+0 0 0 17 17 nguyễn_văn_tùng sinh ngày 28 tháng 12 năm 1964 , quê_quán xã kiến_thiết , huyện tiên_lãng , thành_phố hải_phòng
+2 0 0 25 25 khương_ngọc tên thật huỳnh_quang ngọc ( sinh ngày 26 tháng 7 năm 1984 ) là một nam diễn_viên điện_ảnh , diễn_viên kịch , nhạc_sĩ , ca_sĩ và người dẫn_chương_trình người việt_nam
+2 9 10 11 11 từ năm 1967 - 1968 thanh_tuyền hát song_ca cùng ca sĩ chế_linh rất thành_công đã trở_thành một hiện_tượng được nhắc đến nhiều nhất vào thời_gian đó và cho đến ngày_nay vẫn được mọi người ngưỡng_mộ
+1 0 0 16 16 bố_thị_xuân_linh hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh bình_thuận , uỷ_viên uỷ_ban trung_ương mặt_trận tổ_quốc việt_nam , chủ_tịch uỷ_ban mặt_trận tổ_quốc việt_nam tỉnh bình_thuận , uỷ_viên hội_đồng dân_tộc của quốc_hội
+1 10 10 15 15 ngày 28/6/2016 , tại kỳ họp thứ nhất hội_đồng_nhân_dân tỉnh gia_lai khoá xi đã bầu võ_ngọc_thành tái đắc_cử chức_vụ chủ_tịch ubnd tỉnh gia_lai nhiệm_kỳ 2016 - 2021 , với tỷ_lệ 93
+1 0 0 16 16 âu_thị_mai hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh tuyên_quang , uỷ_viên uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội , phó giám_đốc sở văn_hoá , thể_thao và du_lịch tỉnh tuyên_quang
+1 0 0 17 17 chu_ðức_quang là bác_sỹ chuyên_khoa cấp 1 chuyên_ngành ngoại_khoa , bệnh_viện đa_khoa trung_tâm tỉnh , sở y_tế tỉnh lạng_sơn
+0 0 0 33 33 nguyễn_đức_kiên ( được biết đến nhiều nhất với biệt_danh " bầu kiên " , " kiên_bạc " ) sinh ngày 13 tháng 4 năm 1964 trong một gia_đình nhà_giáo và lớn lên tại gia_lâm , hà_nội
+0 0 0 14 14 đỗ_tiến_sỹ ( sinh năm 1965 , tại xã đình_dù , huyện văn_lâm , tỉnh hưng_yên ) là một chính_trị_gia người việt_nam
+1 9 9 23 23 chiều 17/11 , tại trường chính_trị tỉnh , tỉnh_uỷ lào_cai đã công_bố quyết_định số 55 của ban thường_vụ tỉnh_uỷ về việc phân_công bà hà_thị_nga , phó bí_thư thường_trực tỉnh_uỷ kiêm_nhiệm chức_vụ hiệu_trưởng trường chính_trị tỉnh kể từ ngày 1/11/2015 thay ông phạm_văn_liên không đủ tuổi tái_cử theo quy_định và nghỉ hưu
+2 0 0 17 17 thuỷ_tiên tên thật là trần_thị_thuỷ_tiên ( sinh ngày 25 tháng 11 năm 1985 ) là một nữ ca_sĩ , nhạc_sĩ , người_mẫu , diễn_viên điện_ảnh việt_nam
+0 0 0 16 16 nguyễn_văn_sơn sinh ngày 14 tháng 9 năm 1964 tại thị_trấn vĩnh_tuy , huyện bắc_quang , tỉnh hà_giang
+2 10 10 21 21 tuy nhiên , chỉ vài ngày sau đó , hai ca_sĩ này đã có một buổi tiếp_xúc trực_tiếp với báo_chí , đoan_trang và nhất_thiên_bảo đều tỏ thái_độ rất cởi_mở và vui_vẻ , trái với dự_đoán của nhiều người khi cho rằng không_khí sẽ căng_thẳng trong buổi nói_chuyện này , cả hai cùng khẳng_định mọi bàn_cãi xung_quanh socodance chỉ là " hiểu lầm " và cảm_thấy mọi chuyện đã đi quá xa
+1 9 9 17 17 ngày 10/6/2016 , trước khi kỳ bầu_cử hội_đồng_nhân_dân tỉnh kon_tum khoá mới 2016-2021 diễn ra , ông đào_xuân_quí , 58 tuổi , chủ_tịch uỷ_ban_nhân_dân tỉnh kon_tum bất_ngờ viết đơn xin từ_nhiệm chức_vụ chủ_tịch uỷ_ban_nhân_dân tỉnh kon_tum với lí_do đã quá tuổi để đảm_nhiệm chức_vụ trong nhiệm_kì tiếp_theo và " muốn có thời_gian thăm lại người thân , bạn_bè khi còn khoẻ "
+1 0 0 14 14 đặng_thuần_phong đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh bến_tre ( gồm thành_phố bến_tre , châu_thành , bình_đại ) với tỉ_lệ 64,05% số phiếu hợp_lệ
+2 4 4 21 21 mới 14 tuổi , bạch_yến đã cố trang_điểm cho già_dặn hơn để lần_mò đến các vũ_trường , phòng trà xin làm ca_sĩ , những mong kiếm tiền để phụ_giúp mẹ
+3 0 0 11 11 âu_thị_mai hiện cư_trú ở tổ 3 , phường tân_hà , thành_phố tuyên_quang , tỉnh tuyên_quang
+0 0 0 17 17 nguyễn_hồng_hải sinh ngày 5 tháng 6 năm 1973 quê_quán ở phường mũi_né , thành_phố phan_thiết , tỉnh bình_thuận
+3 0 0 11 11 nhà_máy_kính_nổi_chu_lai trị_giá 1.500 tỉ , là nhà_máy kính nổi lớn nhất việt_nam
+0 0 0 17 17 hồ_thanh_bình sinh ngày 6 tháng 9 năm 1974 quê_quán ở xã bình_long , huyện châu_phú , tỉnh an_giang
+1 0 0 14 14 hoàng_đức_thắng hiện là uỷ_viên ban thường_vụ tỉnh_uỷ , trưởng_đoàn chuyên_trách đoàn đại_biểu quốc_hội tỉnh quảng_trị , uỷ_viên uỷ_ban về các vấn_đề xã_hội của quốc_hội
+1 0 0 29 29 nguyễn_đức_vinh cũng là người được cho là có mức lương cao nhất trong giới lãnh_đạo tại việt_nam với khoảng 1 triệu usd mỗi năm khi còn làm ceo tại techcombank
+0 0 0 17 17 bế_minh_đức sinh ngày 15 tháng 2 năm 1974 quê_quán ở thị_trấn xuân_hoà , huyện hà_quảng , tỉnh cao_bằng
+3 5 5 13 13 tháng 3 năm 2015 , quang_anh góp_mặt trong liveshow " đối_mặt " của ca_sĩ đàm_vĩnh_hưng
+2 0 0 20 20 chi_dân tên thật là nguyễn_trung_hiếu ( sinh ngày 2 tháng 6 năm 1989 tại tỉnh kiên_giang ) là một nam ca_sĩ , nhạc_sĩ người việt_nam
+0 0 0 17 17 phạm_thị_minh_hiền sinh ngày 16 tháng 11 năm 1978 quê_quán ở xã xuân_quang 3 , huyện đồng_xuân , phú_yên
+2 6 6 11 11 sau một thời_gian vắng bóng , diễm_liên trở_lại ca_hát như một nghệ_sĩ độc_lập và cộng_tác với trung_tâm tình
+3 3 3 17 17 sáng tác của nhạc_sĩ nguyễn_văn_chung với ca_từ ngọt_ngào , nhẹ_nhàng cùng giọng hát trầm ấm đã đưa nam_cường lên hàng những ca_sĩ được yêu thích nhất
+1 6 6 17 17 sáng ngày 1/7/2016 , hội_đồng_nhân_dân tỉnh tây_ninh khoá ix tiến_hành kỳ họp lần thứ nhất , bầu phạm_văn_tân tái đắc_cử chức_vụ chủ_tịch uỷ_ban_nhân_dân tỉnh tây_ninh , nhiệm_kỳ 2016-2021 ; với tỷ_lệ trên 98% số phiếu ủng_hộ
+1 0 0 14 14 đặng_thị_ngọc_thịnh từng là đại_biểu quốc_hội việt_nam khoá xiii nhiệm_kì 2011-2016 thuộc đoàn đại_biểu tỉnh vĩnh_long , khoá xi nhiệm_kì 2002-2007 thuộc đoàn đại_biểu thành_phố hồ_chí_minh , uỷ_viên uỷ_ban đối_ngoại của quốc_hội , phó chủ_tịch thường_trực hội liên_hiệp phụ_nữ việt_nam
+2 0 0 7 7 hồ_ngọc_hà còn được biết đến là một nghệ_sĩ thường_xuyên tham_gia các chương_trình từ_thiện
+0 0 0 7 7 hồ_ngọc_hà sinh ra ở an_cựu , thành_phố huế , nhưng đến năm lên 8 tuổi theo cha_mẹ ra sống ở tỉnh quảng_bình
+1 0 0 7 7 huỳnh_sáng từng là chánh_án toà_án nhân_dân tỉnh khánh_hoà
+2 0 0 23 23 elvis_phương , tên thật là phạm_ngọc_phương sinh ra vào ngày 2 thàng 1 , 1945 tại thị_xã thủ_dầu_một , bình_dương , là một ca_sĩ nổi_bật của nhạc trẻ việt_nam
+1 0 0 10 10 cầm_ngọc_minh hiện là phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh sơn_la khoá xiv , nhiệm_kỳ 2016 – 2021
+1 0 0 14 14 đinh_đăng_luận đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh yên_bái gồm có thị_xã nghĩa_lộ và các huyện văn_chấn , trạm_tấu , mù_cang_chải , văn_yên , được 237
+1 11 11 20 20 ngày 16/6/2016 , tại kỳ họp thứ nhất , hđnd tỉnh ninh_bình khoá 14 , nhiệm_kỳ 2016 – 2021 , trần_hồng_quảng được bầu giữ chức_vụ chủ_tịch hội_đồng_nhân_dân tỉnh ninh_bình khoá 14 nhiệm_kì 2016-2021
+0 0 0 20 20 ma_thị_thuý sinh ngày 3 tháng 10 năm 1978 quê_quán ở thôn nà_khán , xã hà_lang , huyện chiêm_hoá , tỉnh tuyên_quang
+2 0 0 5 5 lệ_quyên là một trong những nghệ_sĩ có hoạt_động từ_thiện tích_cực nhất , ca_sĩ lệ_quyên đã tổ_chức những chuỗi đêm nhạc từ_thiện mang tên tình nghệ_sĩ
+1 15 15 22 22 sáng ngày 1/7/2016 , tại kỳ họp thứ nhất , hội_đồng_nhân_dân ( hđnd ) tỉnh kiên_giang khoá ix , nhiệm_kỳ 2016-2021 , phạm_vũ_hồng - phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh khoá viii đã tái đắc_cử chức_vụ chủ_tịch uỷ_ban_nhân_dân tỉnh nhiệm_kỳ 2016-2021 với tỉ_lệ 98,41%
+1 11 11 14 14 ngày 21/6/2016 , tại kỳ họp thứ nhất , hội_đồng_nhân_dân tỉnh lào_cai đã bầu nguyễn_thanh_dương tiếp_tục giữ chức_vụ phó chủ_tịch uỷ_ban_nhân_dân tỉnh lào_cai khoá xv , nhiệm_kỳ 2016-2021
+1 0 0 13 13 đinh_huy_chiến là đại_biểu quốc_hội việt_nam khoá 13 nhiệm_kì 2011-2016 thuộc đoàn đại_biểu tỉnh thái_nguyên , đồng_thời là chủ_nhiệm hợp_tác_xã công_nghiệp và vận_tải chiến_công , phó chủ_tịch hội doanh_nhân trẻ việt_nam , uỷ_viên uỷ_ban tài chính-ngân sách của quốc_hội khoá 13 , làm_việc ở hợp_tác_xã công_nghiệp và vận_tải chiến_công
+3 2 2 4 4 bảo tàng hồ_chí_minh tại hà_nội là khu tưởng_niệm về hồ_chí_minh lớn nhất việt_nam
+3 3 3 13 14 năm 1993 , lý_quí_trung tốt_nghiệp cử_nhân ngành quản_trị nhà_hàng và khách_sạn tại trường đại_học western_sydney ( úc ) , sau đó học tiếp để lấy bằng thạc_sĩ du_lịch tại trường đại_học griffith ( úc ) năm 1994
+0 0 0 14 14 đàm_văn_eng sinh năm 1960 , quê_quán xã cách linh , huyện phục_hoà , tỉnh cao_bằng
+1 0 0 8 8 đặng_thị_phương_thảo đang làm_việc ở trường trung_học_phổ_thông giao_thuỷ tỉnh nam_định
+1 0 1 26 28 đặng thành_tâm ( sinh 1964 ) là nhà_kinh_doanh nổi_tiếng ở việt_nam , học chuyên_ngành kỹ_sư hàng_hải ( đại_học hàng_hải , hải_phòng ) , từng công_tác tại công_ty vận_tải_biển sài_gòn ( 1988-1996 )
+3 13 14 16 16 tốt nghiệp cấp 3 lớp chuyên anh tại trường thpt hà_nội amsterdam , toàn shinoda sang mỹ học 4 năm tại trường đại_học wesleyan chuyên_ngành kinh_tế với học_bổng toàn_phần freeman ( học_bổng của đại_học wesleyan , mỗi năm chỉ cấp cho 1 học_sinh việt_nam ) dành cho sinh_viên xuất_sắc châu_á
+1 8 8 15 15 chiều ngày 17/10/2015 , đại_hội đại_biểu đảng_bộ tỉnh kiên_giang lần thứ x , đã bầu đặng_tuyết_em , phó bí_thư tỉnh_uỷ khoá ix , tái đắc_cử phó bí_thư tỉnh_uỷ khoá x , nhiệm_kỳ 2015 - 2020
+0 0 0 17 17 dương_văn_thống sinh ngày 7 tháng 12 năm 1961 quê_quán ở xã ngọc_chấn , huyện yên_bình , tỉnh yên_bái
+1 0 0 16 16 huỳnh_minh_tuấn hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh đồng_tháp , giám_đốc sở khoa_học và công_nghệ tỉnh đồng_tháp , uỷ_viên uỷ_ban khoa_học , công_nghệ và môi_trường của quốc_hội
+0 0 0 17 17 rơ_châm_long sinh ngày 25 tháng 11 năm 1970 quê_quán ở xã mô_rai , huyện sa_thầy , tỉnh kon_tum
+1 0 0 7 7 bạch_thị_hương_thuỷ đang làm_việc ở viện_kiểm_sát nhân_dân tỉnh hoà_bình
+1 5 5 15 15 ngày 14/6/2016 , hội_đồng_nhân_dân tỉnh khánh_hoà khoá vi đã tiến_hành kỳ họp thứ nhất bầu lê_đức_vinh , phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh khoá v tái đắc_cử chủ_tịch uỷ_ban_nhân_dân tỉnh khánh_hoà khoá vi , nhiệm_kỳ 2016-2021
+0 0 0 18 18 nguyễn_thị_việt_nga sinh ngày 29 tháng 9 năm 1976 quê_quán ở xã chi_lăng nam , huyện thanh_miện , tỉnh hải_dương
+2 0 0 23 23 thanh_hà tên đầy_đủ : trương_minh_hà ( sinh năm 1969 tại đà_nẵng ) , được biết dưới nghệ_danh là thanh_hà , là một nữ ca_sĩ người đức gốc việt , hoạt_động nghệ_thuật và sinh_sống ở mỹ nhiều năm
+3 8 10 24 24 ngày 20 tháng 9 năm 2017 , ban_bí_thư ban_chấp_hành trung_ương đảng_cộng_sản_việt_nam khoá 12 đã thống_nhất quyết_định cách tất_cả các chức_vụ trong đảng của ông nguyễn_anh_dũng
+2 0 0 22 22 ái_phương ( sinh ngày 20 tháng 11 năm 1989 ) , tên đầy_đủ là phan_lê_ái_phương , là một ca_sĩ , người_mẫu và diễn_viên điện_ảnh người việt_nam
+1 4 4 11 11 đầu năm 2008 , hoài_anh được lãnh_đạo đài_truyền_hình việt_nam cử ra hà_nội công_tác một thời_gian để tăng_cường vào đội_ngũ biên_tập_viên - dẫn_chương_trình cho vtv1 và vtv4
+2 0 0 12 12 như_loan ( sinh ngày 20 tháng 4 năm 1981 ) là một ca_sĩ việt_nam hiện đang ký hợp_đồng với trung_tâm băng_nhạc thuý_nga , một trong những nhà_hát lớn nhất ở mỹ
+1 0 0 15 15 đinh_thị_kiều_trinh hiện là chuyên_viên phòng bình_đẳng giới , sở lao_động - thương_binh và xã_hội tỉnh nghệ_an , uỷ_viên hội_đồng dân_tộc của quốc_hội
+3 11 11 25 25 năm 2000 , được thầy_giáo chủ_nhiệm phát_hiện ra khả_năng ca_hát nên lệ_quyên đã được thầy_giáo giới_thiệu để hát tại các quán cafe sinh_viên trên đường cầu_giấy
+1 8 8 16 16 ngày 6/10/2010 , tại đại_hội đại_biểu đảng_bộ tỉnh gia_lai lần thứ 14 nhiệm_kỳ 2010-2015 , ông hà_sơn_nhin tái_cử làm bí_thư tỉnh_uỷ gia_lai , phạm_đình_thu , phạm_thế_dũng , bùi_văn_cường giữ chức_vụ phó bí_thư tỉnh_uỷ
+1 2 2 7 11 hiện bà ức_my là chủ_tịch hđqt của công_ty cổ_phần đầu_tư thành thành_công , thành_viên hđqt của công_ty cổ_phần mía đường thành thành_công tây_ninh
+3 9 9 11 11 tên ông được đặt làm tên phố và đường lê_trực ở hà_nội và con đường lê_trực ở quận bình_thạnh
+1 3 3 22 22 cha ông là nguyễn_háo_văn , là một thành_viên đắc_lực của phong_trào minh_tân , và là một trong số_thành_viên sáng_lập minh_tân khách_sạn ở mỹ_tho
+2 0 0 8 8 diệp_văn_kỳ ( 1895 - 1945 ) ; là nhà_văn , nhà_báo trước 1945 tại việt_nam
+1 0 0 14 14 đỗ_văn_sinh đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh quảng_trị gồm có các huyện vĩnh_linh , gio_linh , cam_lộ , đakrông , hướng_hoá và huyện đảo cồn_cỏ
+2 0 0 12 12 ngô_trung_quang ( sinh ngày 20 tháng 7 năm 1997 ) là một ca_sĩ đoạt giải quán_quân chương_trình thần_tượng bolero 2016
+1 22 22 32 32 tháng 2 năm 1948 , thực_hiện chủ trưởng của bộ tổng_chỉ_huy quân_đội quốc_gia và dân_quân_tự_vệ , mặt_trận đường 5 được thành_lập do dương_hữu_miên làm chỉ_huy trưởng , nguyễn_năng_hách ( chủ_tịch uỷ_ban_hành_chính tỉnh hải_dương ) làm chính_uỷ , đặng_tính ( liên_khu uỷ_viên ) là bí_thư đảng_uỷ
+0 0 0 17 17 bùi_ngọc_chương sinh ngày 4 tháng 9 năm 1960 quê_quán ở xã quỳnh_yên , huyện quỳnh_lưu , tỉnh nghệ_an
+1 5 5 16 16 ngày 23/4/2015 , hội_đồng_nhân_dân tỉnh kon_tum khoá x nhiệm_kỳ 2011-2016 đã tổ_chức kỳ họp bất_thường bầu đào_xuân_quí , phó bí_thư tỉnh_uỷ kon_tum giữ chức_vụ chủ_tịch uỷ_ban_nhân_dân tỉnh kon_tum nhiệm_kỳ 2011 - 2016
+2 0 0 12 12 lê_đoàn_ánh_minh ( sinh ngày 16 tháng 5 năm 1985 ) là một ca_sĩ , nhạc_sĩ người mỹ gốc việt
+2 0 0 20 20 trần_lập ( tên khai_sinh trần_quyết_lập , 12 tháng 12 năm 1974 – 17 tháng 3 năm 2016 ) là một nhạc_sĩ , ca_sĩ việt_nam thể_loại nhạc rock
+0 0 0 18 18 hoàng_văn_phùng là người dân_tộc tày , sinh ngày 17/10/1909 , tại xã thượng_giáo , huyện ba_bể , tỉnh bắc_kạn
+3 5 5 10 10 hiện nay , ở tỉnh tây_ninh có trường ptth chuyên hoàng_lê_kha , và ở quê_hương ông ( hà_trung , thanh_hoá ) cũng có ngôi trường phổ_thông_trung_học mang tên hoàng_lê_kha
+0 0 0 10 10 nguyễn_hữu_toàn quê_quán ở phường la_khê , quận hà_đông , tp hà_nội
+1 11 11 14 14 ngày 21/6/2016 , tại kỳ họp thứ nhất , hội_đồng_nhân_dân tỉnh lào_cai đã bầu đặng_xuân_thanh tiếp_tục giữ chức_vụ phó chủ_tịch uỷ_ban_nhân_dân tỉnh lào_cai khoá xv , nhiệm_kỳ 2016-2021
+2 0 0 13 13 phương_trinh_jolie ( sinh ngày 7 tháng 10 năm 1988 ) là một nữ ca_sĩ , diễn_viên việt_nam
+1 0 0 6 6 đào_xuân_quí nguyên là chủ_tịch uỷ_ban_nhân_dân tỉnh kon_tum khoá x , nhiệm_kỳ 2011 – 2016
+2 27 27 35 35 đọc bức tâm_thư , đọc những từ_ngữ khi mỉa_mai ngọt_nhạt , khi đay_nghiến chua_chát của mr_đàm , không ít người phải lạnh_gáy bởi hoá_ra , với người đàm_vĩnh_hưng gọi là " bố " , nam ca_sĩ vẫn có_thể thẳng tưng và vỗ mặt như cách anh thường làm với dư_luận
+0 0 0 10 10 khúc_thị_duyền quê_quán ở xã thuỵ_sơn , huyện thái_thuỵ , tỉnh thái_bình
+1 0 0 7 7 cao_đình_thưởng đang làm_việc ở văn_phòng hội_đồng_nhân_dân tỉnh phú_thọ
+0 0 0 10 10 đinh_công_sỹ quê_quán ở xã tường_hạ , huyện phù_yên , tỉnh sơn_la
+1 5 5 23 23 sáng ngày 29/12/2014 , tại hà_nội , đại_hội đại_biểu toàn_quốc hội lhtn việt_nam lần thứ vii đã tín_nhiệm , hiệp_thương chọn cử đồng_chí nguyễn_phi_long , bí_thư ban_chấp_hành trung_ương đoàn là chủ_tịch hội lhtn việt_nam khoá vii , nhiệm_kỳ 2014 - 2019
+0 0 0 17 17 giàng_a_chu sinh ngày 26 tháng 11 năm 1959 quê_quán ở xã chế_tạo , huyện mù_cang_chải , tỉnh yên_bái
+0 0 0 17 17 đặng_thuần_phong sinh ngày 8 tháng 7 năm 1964 quê_quán ở xã tiên_thuỷ , huyện châu_thành , tỉnh bến_tre
+3 12 12 17 17 đầu thập_niên 70 của thế_kỷ 20 , trong thời_gian lưu_trú tại thành_phố đà_nẵng để phát_triển môn_đồ , suzuki_choji cũng tổ_chức đám_cưới với người vợ việt_nam thứ hai , bà đặng_thị_mỹ_lợi , một cô gái huế đang làm_việc may võ_phục ở địa_phương này
+3 0 0 20 20 bùi_xuân_thống hiện cư_trú ở số 1002 , đường nguyễn_ái_quốc , khu_phố 1 , phường trảng_dài , thành_phố biên_hoà , tỉnh đồng_nai
+2 0 0 26 26 trần_thu_hà ( sinh năm 1977 tại hà_nội ) , còn có nghệ_danh hà_trần , là một ca_sĩ và nhà_sản_xuất âm_nhạc nổi_tiếng của việt_nam , cô là nghệ_sĩ đã giành được 9 đề_cử , đứng thứ 4 trong danh_sách những người được đề_cử nhiều nhất và chiến_thắng ở 4 hạng_mục tại giải cống_hiến
+0 0 0 20 20 điểu_huỳnh_sang sinh ngày 21 tháng 12 năm 1980 quê_quán ở ấp 5 , xã an_khương , huyện hớn_quản , tỉnh bình_phước
+0 5 5 11 11 thanh thanh_hiền tên thật là phạm_thị_thu_huyền , sinh năm 1969 tại hà_nội , trong gia_đình mà bố và mẹ đều là nghệ_sĩ , trong đó mẹ cô là nghệ_sĩ cải_lương kim_thoa
+1 3 3 32 32 tốt nghiệp , nguyễn_háo_vĩnh sang luân_đôn ( anh ) để gặp kỳ_ngoại hầu cường_để , rồi trở về nước và được trần_chánh_chiếu giao quyền điều_hành xưởng hộp_quẹt của minh_tân công_nghệ xã ở mỹ_tho .
+3 3 3 22 22 phổ biến nhạc phạm_duy cũng là điều được nhiều nhân_vật ở nhiều giới lên_tiếng ủng_hộ , trong đó có sử_gia dương_trung_quốc , ca_sĩ ánh_tuyết , nhà_nghiên_cứu nguyễn_đắc_xuân , giáo_sư tiến_sĩ âm_nhạc trần_văn_khê
+1 0 1 18 20 đặng thị_hoàng_yến , sinh năm 1959 tại hải_phòng , là chủ_tịch hội_đồng_quản_trị của tập_đoàn tân_tạo , chủ_tịch hội_đồng_quản_trị trường đại_học tân_tạo , chủ_tịch của diễn_đàn doanh_nghiệp việt_nam - hoa_kỳ
+0 0 0 17 17 đào_xuân_quí sinh ngày 22 tháng 3 năm 1958 , quê_quán xã hoà_an , huyện phú_hoà , tỉnh phú_yên
+2 0 0 19 19 khánh_phương ( tên thật phạm_khánh_phương , sinh ngày 4 tháng 11 năm 1981 tại thành_phố hồ_chí_minh ) là một ca_sĩ nhạc trẻ việt_nam , đồng_thời còn là người sáng_lập và cựu thành_viên của nhóm nhạc mp5
+0 0 0 17 17 phạm_văn_hoà sinh ngày 2 tháng 10 năm 1962 quê_quán ở phường tân_quy_đông , thành_phố sa_đéc , tỉnh đồng_tháp
+2 12 12 20 20 bắt đầu bước chân vào con đường sáng_tác vào năm 2012 , châu_đăng_khoa sớm trở_thành một trong những cái tên nhạc_sĩ trẻ được chú_ý và sở_hữu nhiều ca_khúc được khán_giả yêu thích
+1 1 1 17 17 bà hoàng_thị_thuý_lan đã từng giữ các chức_vụ sau đây trước khi được bầu làm bí_thư tỉnh_uỷ tỉnh vĩnh_phúc : phó bí_thư tỉnh_uỷ , trưởng ban tổ_chức tỉnh_uỷ , chủ_nhiệm uỷ_ban kiểm_tra tỉnh_uỷ , trưởng ban dân_vận tỉnh_uỷ , chủ_tịch liên_đoàn lao_động tỉnh vĩnh_phúc , bí_thư tỉnh_đoàn vĩnh_phúc
+1 21 21 29 29 ngày 18 tháng 8 năm 2011 , theo quyết_định số 224 - qđns / tw , bộ_chính_trị điều_động , phân_công ông đào_ngọc_dung , uỷ_viên trung_ương đảng , bí_thư tỉnh_uỷ yên_bái thôi tham_gia ban_chấp_hành tỉnh_uỷ yên_bái để tham_gia ban_chấp_hành , ban thường_vụ và giữ chức bí_thư đảng_bộ khối các cơ_quan trung_ương nhiệm_kỳ 2011-2015
+3 14 14 19 19 đỉnh điểm là tại liên_hoan ca_múa nhạc_nhẹ toàn_quốc 1989 tại nha_trang , với nhiều ca_sĩ nổi_tiếng cùng tham_gia , ngọc_sơn đã trở_thành hiện_tượng lớn nhất của kỳ liên_hoan này
+1 0 0 14 14 hà_minh_huệ từng là đại_biểu quốc_hội việt_nam khoá xiii nhiệm_kì 2011-2016 thuộc đoàn đại_biểu tỉnh bình_thuận
+1 5 5 17 17 ngày 16/6/2016 , hội_đồng_nhân_dân tỉnh nam_định khoá xviii , nhiệm_kỳ 2016-2021 tổ_chức kỳ họp thứ nhất bầu trần_văn_chung , phó bí_thư thường_trực tỉnh_uỷ , chủ_tịch hội_đồng_nhân_dân tỉnh nam_định nhiệm_kỳ 2011-2016 tái đắc_cử chủ_tịch hội_đồng_nhân_dân tỉnh nam_định nhiệm_kỳ 2016-2021 , với tỷ_lệ số phiếu cao 66/67 , đạt tỉ_lệ 98,5%
+1 0 0 16 16 ðinh_thị_phương_khanh từng là đại_biểu quốc_hội việt_nam khoá 13 nhiệm_kì 2011-2016 , thuộc đoàn đại_biểu quốc_hội tỉnh long_an
+1 0 0 18 18 hoàng_đình_chung hiện là đại_tá , tỉnh_uỷ_viên , phó bí_thư thường_trực đảng_uỷ quân_sự tỉnh , chính_uỷ bộ_chỉ_huy quân_sự tỉnh tây_ninh , uỷ_viên uỷ_ban quốc_phòng và an_ninh của quốc_hội
+2 0 0 9 9 phùng_tiến_minh ( sinh 1978 ) là một nhạc_sĩ , ca_sĩ , diễn_viên phim_truyền_hình và diễn_viên kịch việt_nam
+2 2 2 31 31 chỉ có hà_okio theo lãnh_vực âm_nhạc chuyên_nghiệp và anh đã tự rèn_luyện , trau_dồi những kỹ_năng cần_thiết trong khoảng thời_gian hơn mười năm trước khi xuất_hiện chính_thức với vai_trò nhạc_sĩ kiêm ca_sĩ
+2 0 0 13 13 đan_trường ( sinh ngày 29 tháng 11 năm 1976 ) là một nam ca_sĩ nổi_tiếng người việt_nam
+2 3 3 6 6 năm 2006 , hoàng_hải đoạt giải ca_sĩ được yêu thích nhất của cuộc thi sao mai điểm hẹn do đài_truyền_hình việt_nam tổ_chức
+1 28 28 61 61 uỷ ban kiểm_tra trung_ương đảng_cộng_sản_việt_nam trong kỳ họp thứ 19 từ ngày 7 đến ngày 9 tháng 11 năm 2017 tại hà_nội đã xem_xét , thi_hành kỷ_luật thiếu_tướng hoàng_công_hàm , đảng_uỷ_viên , phó tư_lệnh quân_khu 1 , bộ quốc_phòng với hình_thức kỉ_luật cảnh_cáo , nguyên_nhân do " trong thời_gian giữ cương_vị uỷ_viên ban thường_vụ tỉnh_uỷ , chỉ_huy trưởng bộ_chỉ_huy quân_sự tỉnh lạng_sơn , ông hoàng_công_hàm đã vi_phạm nguyên_tắc tập_trung_dân_chủ , vi_phạm các quy_định của đảng , nhà_nước và quân_đội trong công_tác quản_lý , sử_dụng đất quốc_phòng
+0 0 0 11 11 đỗ_ngọc_niễn có quê_quán ở thị_trấn liên_hương , huyện tuy_phong , tỉnh bình_thuận
+1 0 0 6 6 đinh_văn_thu hiện là chủ_tịch uỷ_ban_nhân_dân tỉnh quảng_nam khoá ix , nhiệm_kỳ 2016 – 2021
+1 0 0 16 16 hoàng_thị_hoa hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh bắc_giang , phó chủ_nhiệm uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội , chủ_tịch nhóm nghị_sĩ hữu_nghị việt_nam - ai_cập
+2 0 0 6 6 nguyễn_hữu_thiết ( 1928-2002 ) là một nhạc_sĩ kiêm ca_sĩ của nền tân_nhạc việt_nam trong thế_kỷ 20
+3 3 3 14 14 năm 2000 , lý_hải gặp vĩnh_thuyên ( người trước đó từng là quản_lý cho ca_sĩ phương_thanh ) và được người này giúp định_hình lại phong_cách âm_nhạc , từ chỗ chỉ tập_trung vào những ca_khúc sôi_động sang hát cả nhạc sôi_động lẫn trữ_tình
+1 6 6 15 15 ngày 2/10/2015 , ban_chấp_hành đảng_bộ tỉnh cao_bằng tổ_chức hội_nghị lần thứ 31 , bầu bổ_sung đàm_văn_eng giữ chức_vụ phó bí_thư tỉnh_uỷ nhiệm_kỳ 2010 - 2015 , với 100% đại_biểu đồng_ý
+0 0 0 21 21 đặng_thai_mai sinh ngày 25 tháng 12 năm 1902 tại làng lương_điền ( nay là thanh_xuân ) , huyện thanh_chương , tỉnh nghệ_an trong một gia_đình nho_học
+1 0 0 16 16 đinh_văn_nhã hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh phú_yên , phó chủ_nhiệm uỷ_ban tài_chính , ngân_sách của quốc_hội , chủ_tịch nhóm nghị_sĩ hữu_nghị việt_nam - ucraina ( đại_biểu chuyên_trách trung_ương )
+2 0 0 5 5 diễm_liên là một trong những ca_sĩ trẻ ở hải_ngoại thành_công với dòng nhạc này
+0 0 0 17 17 rơ_mah_tuân sinh ngày 30 tháng 6 năm 1979 quê_quán ở xã ia_púch , huyện chư_prông , tỉnh gia_lai
+1 0 0 14 14 đỗ_thị_lan đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 3 , tỉnh quảng_ninh gồm có thành_phố móng_cái và các huyện : vân_đồn , cô_tô , tiên_yên , đầm_hà , hải_hà , bình_liêu , ba_chẽ , được 165
+3 0 0 15 15 hà_thị_lan hiện cư_trú ở thôn già khê , xã tiên_hưng , huyện lục_nam , tỉnh bắc_giang
+3 5 5 29 33 trong tháng 5/2016 , bà lê_hoàng_diệp_thảo vợ ông vũ đã gửi đơn kiến_nghị đến ubnd tỉnh , văn_phòng tỉnh_uỷ tỉnh bình_dương , đề_nghị thu_hồi giấy chứng_nhận đăng_ký doanh_nghiệp của công_ty cp cà_phê hoà_tan trung_nguyên ngày 21/4/2016
+2 3 3 17 17 năm 2005 , đoan_trang được trao giải làn_sóng xanh lần thứ 7 , là một trong 10 ca_sĩ được yêu thích nhất trong năm với 2 ca_khúc " tóc hát " và " bâng_khuâng " , nhiều tuần liền nằm trong top 5 của làn_sóng xanh
+3 0 0 7 7 hà_okio đã từng làm_việc chung với các nhạc_sĩ , nhà_sản_xuất hàng_đầu việt_nam như quốc_bảo , võ_thiện_thanh , huy_tuấn , dương_khắc_linh
+1 5 5 13 13 ngày 30/6/2016 , hội_đồng_nhân_dân tỉnh lạng_sơn khoá xvi , nhiệm_kỳ 2016-2021 đã bầu phạm_ngọc_thưởng tái đắc_cử chức_vụ chủ_tịch uỷ_ban_nhân_dân tỉnh nhiệm_kỳ 2016-2021 , với 56/58 phiếu bầu tán_thành , đạt tỉ_lệ 96,5%
+0 0 0 17 17 mai_thị_kim_nhung sinh ngày 15 tháng 10 năm 1985 quê_quán ở xã hải_ba , huyện hải_lăng , tỉnh quảng_trị
+0 0 0 17 17 hoàng_đăng_quang ( sinh ngày 15 tháng 8 năm 1961 tại xã quảng_minh , huyện quảng_trạch , tỉnh quảng_bình ) là một chính_trị_gia người việt_nam
+2 4 4 8 8 ngoài viết nhạc , tuấn_khanh còn là một ca_sĩ với nghệ_danh trần_ngọc
+2 0 0 16 16 tiên_cookie , tên thật là nguyễn_thuỷ_tiên ( sinh ngày 26 tháng 2 năm 1994 ) là nhạc_sĩ , ca_sĩ người việt_nam
+2 0 0 8 8 thuỷ_tiên cũng được biết đến với vai_trò là diễn_viên điện_ảnh khi cô tham_gia trong một_số bộ phim_điện_ảnh như : nụ hôn thần chết , đẹp từng centimet
+1 0 0 16 16 châu_quỳnh_dao hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh kiên_giang , uỷ_viên uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội , hiệu_trưởng trường trung_học_phổ_thông dân_tộc nội_trú tỉnh kiên_giang
+0 0 0 10 10 đỗ_văn_vẻ quê_quán ở xã thái_phương , huyện hưng_hà , tỉnh thái_bình
+1 19 19 25 25 sáng 28/6/2016 tại kỳ họp thứ nhất , hội_đồng_nhân_dân tỉnh khoá xviii , nhiệm_kỳ 2016 – 2021 đã bầu nguyễn_hương_giang giữ chức chủ_tịch hội_đồng_nhân_dân tỉnh bắc_ninh với 51/51 phiếu tán_thành ( 100% đại_biểu có_mặt )
+1 0 0 13 13 hà_minh_huệ là đại_biểu quốc_hội việt_nam khoá xiii nhiệm_kì 2011-2016 thuộc đoàn đại_biểu tỉnh bình_thuận , đồng_thời là phó bí_thư đảng_đoàn , phó chủ_tịch thường_trực hội nhà_báo việt_nam , bí_thư đảng_uỷ cơ_quan trung_ương hội ; phó chủ_tịch hội hữu_nghị việt_nam - ấn_độ , uỷ_viên uỷ_ban đối_ngoại của quốc_hội khoá xiii
+1 0 0 12 12 đinh_thị_phương_lan từng là đại_biểu quốc_hội việt_nam khoá xiii ( 2011-2016 ) tỉnh quảng_ngãi , uỷ_viên thường_trực uỷ_ban đối_ngoại của quốc_hội ( đại_biểu chuyên_trách : trung_ương )
+1 0 0 14 14 a_pớt đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh kon_tum gồm có các huyện : đắk_hà , đắk_tô , tu_mơ_rông , ngọc_hồi và đắk_glei , được 126
+3 0 0 22 22 toàn_shinoda đã tham_gia diễn_giảng trong hội_thảo du_học mỹ được vietabroader tổ_chức tại trung_tâm hội_nghị quốc_tế tại hà_nội năm 2013 và tại khách_sạn daewoo hà_nội năm 2014 , vài ngày trước khi anh qua_đời
+1 0 0 14 14 giàng_páo_mỷ đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh lai_châu gồm có các huyện : phong_thổ , mường_tè , sìn_hồ và nậm_nhùn , được 110
+2 17 17 25 25 sau chuyến lưu_diễn ít_nhiều thành_công , mà một phần do sự chú_ý của khán_giả đến một nữ ca_sĩ trẻ hàn_quốc sử_dụng thành_thạo tiếng việt , hari_won quyết_định ở lại việt_nam và phát_triển sự_nghiệp của riêng mình
+1 0 0 7 7 hoàng_đình_chung hiện là chính_uỷ bộ_chỉ_huy quân_sự tỉnh tây_ninh , uỷ_viên uỷ_ban quốc_phòng và an_ninh của quốc_hội , đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh tây_ninh
+2 0 0 17 17 trịnh_thăng_bình ( sinh ngày 30 tháng 4 năm 1988 tại thành_phố hồ_chí_minh ) là một ca_sĩ , nhạc_sĩ , diễn_viên và nhà_sản_xuất âm_nhạc nổi_tiếng việt_nam
+2 12 12 17 17 mv giành giải mv xuất_sắc nhất tại yan_vpop 20 awards 2012 và đông_nhi được vinh_danh là nữ ca_sĩ được yêu thích nhất zing_music_award 2012
+1 0 0 11 11 hồ_thanh_bình hiện là trưởng khoa_nông_nghiệp - tài_nguyên thiên_nhiên , trường đại_học an_giang , tỉnh an_giang , uỷ_viên uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội
+2 0 0 14 14 phạm_toàn_thắng ( sinh ngày 29 tháng 9 năm 1987 ) là một nhạc_sĩ , ca_sĩ người việt_nam
+3 0 0 14 14 đinh_đăng_luận hiện cư_trú ở số 790 , tổ 16 , phường minh_tân , thành_phố yên_bái , tỉnh yên_bái
+0 0 0 14 14 quàng_thị_vân sinh ngày 20 tháng 4 năm 1985 quê_quán ở xã pá_khoang , huyện điện_biên , tỉnh điện_biên
+1 0 0 12 12 chu_lé_chừ hiện là uỷ_viên ban thường_vụ tỉnh_uỷ ; trưởng ban dân_vận tỉnh_uỷ lai_châu , uỷ_viên uỷ_ban văn_hoá giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội
+2 0 0 19 19 nam_cường tên thật là nguyễn_nam_cường ( sinh ngày 16 tháng 9 năm 1985 tại đà_nẵng ) là một nam ca_sĩ , diễn_viên người việt_nam
+2 0 0 2 2 hiền_thục là nghệ_sĩ đầu_tiên trong showbiz việt làm mẹ đơn_thân
+2 5 5 14 14 sau khi tốt_nghiệp trung_học_cơ_sở , hùng_thuận đã chính_thức được công_ty á_châu mời về làm ca_sĩ độc_quyền cùng với nhóm nhật_thực và anh đã phát_hành album đầu_tay với tựa đề " không_thể ở bên nhau "
+1 0 0 16 16 giàng_páo_mỷ hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh lai_châu , trưởng_đoàn đại_biểu quốc_hội tỉnh lai_châu , uỷ_viên uỷ_ban đối_ngoại của quốc_hội
+2 0 0 24 24 jun_phạm ( hay còn gọi là jun 365 ) tên thật là phạm_duy_thuận ( sinh ngày 24 tháng 7 năm 1989 ) là một ca_sĩ , nhà_văn , diễn_viên việt_nam
+1 5 5 12 12 tháng 7 năm 2004 , lương_hoài_nam được bổ_nhiệm làm giám_đốc hãng hàng_không pacific_airlines , một công_ty con của vna
+3 7 7 11 11 sau thành_công của bốn chữ lắm , trúc_nhân tiếp_tục hợp_tác với nhạc_sĩ phạm_toàn_thắng ra_mắt single vẽ , ca_khúc được nhạc_sĩ nguyễn_hải_phong phối lại hoàn_toàn mới
+1 14 14 21 21 ngày 28 tháng 7 năm 1947 , uỷ_ban kháng_chiến hành_chính khu iv quyết_định cử hoàng_văn_diệm làm chủ_tịch uỷ_ban kháng_chiến hành_chính tỉnh quảng_bình
+3 0 0 5 5 bùi_văn_phương hiện cư_trú tại thành_phố ninh_bình , tỉnh ninh_bình
+0 0 0 10 10 nguyễn_đình_tiến quê_quán ở xã duy_an , huyện duy_xuyên , tỉnh quảng_nam
+1 0 0 14 14 đỗ_mạnh_hùng từng là đại_biểu quốc_hội việt_nam khoá 13 nhiệm_kì 2011-2016 thuộc đoàn đại_biểu tỉnh thái_nguyên , phó chủ_nhiệm uỷ_ban về các vấn_đề xã_hội của quốc_hội khoá 13 , chủ_tịch nhóm nghị_sỹ hữu_nghị việt_nam - angiêri
+1 0 0 18 18 phạm_văn_cành từng giữ là đại_biểu hội_đồng_nhân_dân khoá viii , uỷ_viên thường_vụ tỉnh_uỷ , chủ_tịch uỷ_ban mặt_trận tổ_quốc tỉnh bình_dương
+2 23 23 24 24 thời gian gần đây , tuy không còn xuất_hiện trước công_chúng với chiếc áo_dài quen_thuộc nữa , nhưng vẫn với mái_tóc cũ , ca_sĩ cẩm_vân vẫn tiếp_tục giữ được niềm yêu_mến của khán_giả mặc cho tuổi nghề của ca_sĩ ngày_càng trở_nên thấp hơn và ngắn hơn
+2 9 9 12 12 sau khi nhóm quả_dưa_hấu tan_rã vào năm 2000 , bằng_kiều tiếp_tục sự_nghiệp ca_sĩ đơn_ca
+1 3 3 7 11 chồng bà là nguyễn_hiệp , công_tác tại viện khoa_học và công_nghệ việt_nam
+1 0 0 16 16 chu_lé_chừ hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh lai_châu
+3 0 0 15 15 dương_văn_thông hiện cư_trú ở số nhà 60 , tổ 13 , phường đức_xuân , thành_phố bắc_kạn , tỉnh bắc_kạn
+2 0 0 8 8 nguyễn_hữu_thiết ( 1928-2002 ) là một nhạc_sĩ kiêm ca_sĩ của nền tân_nhạc việt_nam trong thế_kỷ 20
+1 0 0 16 16 huỳnh_cao_nhất hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh bình_định , phó chủ_tịch uỷ_ban mặt_trận tổ_quốc việt_nam tỉnh bình_định , uỷ_viên uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội
+2 0 0 11 11 yến_vy ( sinh năm 1979 ) là một nữ diễn_viên và ca_sĩ việt_nam , nổi_tiếng vì scandal vào năm 2005 một đoạn phim quay cảnh_quan hệ tình_dục của cô bị phát_tán rộng_rãi
+3 3 3 28 28 ngày 05/8/2014 , hoài_lâm chính_thức phát_hành trên trang mạng nghe nhạc trực_tuyến zing mp3 single nhạc trẻ đầu_tiên có tên : " như những phút ban_đầu " do nhạc_sĩ tiến_minh sáng_tác
+1 0 0 16 16 đàng_thị_mỹ_hương hiện là đại_biểu quốc_hội việt_nam khoá 14 nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh ninh_thuận , uỷ_viên uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội , trưởng ban văn_hoá xã_hội hội_đồng_nhân_dân tỉnh ninh_thuận
+3 4 4 20 20 sang tới 2014 , hứa_vĩ_văn tiếp_tục cộng_tác với đạo_diễn quang_huy với dự_án chàng trai_năm_ấy , phim dựa theo cuộc_đời cố ca_sĩ wanbi_tuấn_anh
+1 0 0 10 10 đặng_hoàng_tuấn hiện là phó giám_đốc sở giao_thông - vận_tải tỉnh long_an , uỷ_viên uỷ_ban kinh_tế của quốc_hội
+3 0 0 14 15 pháp thấy được tầm quan_trọng của nhà_in ngô_tử_hạ nên sau ngày toàn_quốc kháng_chiến , nhà_in ngô_tử_hạ đã bị quân pháp phun xăng đốt , cháy ròng_rã suốt một tuần
+1 6 6 23 23 sáng ngày 11/4/2014 , hội_đồng_nhân_dân tỉnh bắc_giang khoá xvii , nhiệm_kỳ 2011-2016 tổ_chức kỳ họp thứ 9 ( kỳ họp bất_thường đã bầu dương_văn_thái giữ chức phó chủ_tịch uỷ_ban_nhân_dân tỉnh bắc_giang , nhiệm_kỳ 2011-2016 , với tỷ_lệ 75/76 phiếu , bằng 98,68% so với số đại_biểu có_mặt
+3 5 5 16 16 tháng 3 năm 2010 , bằng_kiều bất_ngờ về nước và xuất_hiện trong buổi tiệc sinh_nhật của ca_sĩ hồng_nhung
+0 0 0 10 10 bùi_minh_châu quê_quán ở xã trưng_vương , thành_phố việt_trì , tỉnh phú_thọ
+1 11 11 14 14 ngày 21/6/2016 , tại kỳ họp thứ nhất , hội_đồng_nhân_dân tỉnh lào_cai đã bầu nguyễn_hữu_thể tiếp_tục giữ chức_vụ phó chủ_tịch uỷ_ban_nhân_dân tỉnh lào_cai khoá xv , nhiệm_kỳ 2016-2021
+0 0 0 16 16 đào_duy_dếnh còn có tên là đào_phan , sinh tại xã trung_chính , huyện nông_cống , tỉnh thanh_hoá
+1 0 0 16 16 chu_ðức_quang từng là đại_biểu quốc_hội việt_nam khoá 13 nhiệm_kì 2011-2016 , thuộc đoàn đại_biểu quốc_hội tỉnh lạng_sơn
+3 7 7 30 30 mặc dù ca_khúc này trước_đây từng được ca_sĩ duy_khánh thể_hiện rất thành_công và biết_bao thế_hệ ca_sĩ đã trình_bày lại nhưng theo như lời mc nguyễn_ngọc_ngạn nói ở paris_by_night 89 , quang_lê đã làm sống lại ca_khúc này
+1 0 0 18 18 trương_văn_nọ ( sinh 1/1/1964 ) là đại_biểu quốc_hội việt_nam khoá xiv , khoá xii , thuộc đoàn đại_biểu long_an
+0 0 0 14 14 thu_phương , tên khai_sinh nguyễn_thị_thu_phương ( sinh ngày 9 tháng 10 năm 1972 tại hải_phòng ) , là một nữ ca_sĩ nhạc_nhẹ việt_nam
+2 0 0 12 12 ái_liên ( 1918 – 1991 ) là một ca_sĩ , diễn_viên , nghệ_sĩ cải_lương tài_danh
+1 0 0 16 16 hoàng_đức_thắng hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh quảng_trị , trưởng_đoàn chuyên_trách đoàn đại_biểu quốc_hội tỉnh quảng_trị , uỷ_viên uỷ_ban về các vấn_đề xã_hội của quốc_hội , chủ_tịch uỷ_ban mặt_trận tổ_quốc việt_nam tỉnh quảng_trị
+1 0 0 16 16 chau_chắc hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh an_giang , phó chủ_nhiệm chính_trị bộ_chỉ_huy quân_sự tỉnh an_giang , uỷ_viên hội_đồng dân_tộc của quốc_hội
+1 0 0 14 14 bùi_văn_xuyền đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh thái_bình ( gồm huyện đông_hưng , thái_thuỵ ) với tỉ_lệ 63,72% số phiếu hợp_lệ
+1 0 0 13 13 đặng_thuần_phong từng là đại_biểu quốc_hội việt_nam khoá xii thuộc đoàn đại_biểu quốc_hội tỉnh bến_tre , uỷ_viên thường_trực uỷ_ban tư_pháp của quốc_hội khoá xii , chi_uỷ_viên chi_bộ vụ tư_pháp
+3 6 6 11 11 sau thái_thanh , phải nói đến ca_sĩ duy_quang , con trai phạm_duy và cũng là một trong những người trình_bày nhiều ca_khúc của phạm_duy_nhất
+0 0 0 17 17 ngô_sách_thực sinh ngày 6 tháng 5 năm 1962 quê_quán ở xã tân_trung , huyện tân_yên , tỉnh bắc_giang
+3 0 0 11 11 hoàng_duy_chinh hiện cư_trú ở tổ 8b , phường đức_xuân , thành_phố bắc_kạn , tỉnh bắc_kạn
+0 3 3 13 13 hoà_minzy tên khai_sinh nguyễn_thị_hoà ( sinh ngày 31 tháng 5 năm 1995 tại bắc_ninh , việt_nam ) là một nữ ca_sĩ việt_nam
+1 0 0 16 16 hoàng_văn_liên hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh long_an , phó chủ_tịch uỷ_ban_nhân_dân tỉnh long_an , uỷ_viên uỷ_ban tư_pháp của quốc_hội
+3 0 0 11 11 a_pớt hiện cư_trú ở tổ 3 , phường nguyễn_trãi , thành_phố kon_tum , tỉnh kon_tum
+2 0 0 3 3 thái_thảo là một ca_sĩ việt_nam ở hải_ngoại thuộc thế_hệ thứ hai
+0 0 0 17 17 đặng_thị_phương_thảo sinh ngày 21 tháng 7 năm 1984 quê_quán ở thị_trấn ngô_đồng , huyện giao_thuỷ , tỉnh nam_định
+1 0 0 20 20 đỗ_đại_phong hiện là đại_tá , uỷ_viên ban thường_vụ tỉnh_uỷ , phó bí_thư đảng_uỷ quân_sự , chỉ_huy trưởng bộ_chỉ_huy quân_sự tỉnh thái_nguyên , uỷ_viên uỷ_ban tư_pháp của quốc_hội
+0 0 0 17 17 trần_văn_chung sinh ngày 20 tháng 7 năm 1962 , quê_quán xã hải_tây , huyện hải_hậu , tỉnh nam_định
+1 15 15 25 25 sáng ngày 21 tháng 6 năm 2016 , tại kỳ họp thứ nhất hội_đồng_nhân_dân tỉnh lào_cai , khoá xv , nhiệm_kỳ 2016 – 2021 , đặng_xuân_phong , phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh lào_cai khoá xiv , nhiệm_kỳ 2011 – 2016 tiếp_tục được đại_biểu tín_nhiệm bầu giữ chức chủ_tịch uỷ_ban_nhân_dân tỉnh khoá xv , nhiệm_kỳ 2016 - 2021
+2 0 0 3 3 thanh_lan là một ca_sĩ , diễn_viên của việt_nam
+1 0 0 15 15 cao_văn_trọng hiện là phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh , trưởng_đoàn đại_biểu quốc_hội tỉnh bến_tre , uỷ_viên uỷ_ban tài_chính , ngân_sách của quốc_hội
+1 0 0 14 14 đinh_thị_hồng_minh đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 3 , tỉnh quảng_ngãi gồm có các huyện : mộ_đức , đức_phổ , ba_tơ , minh_long , được 182
+2 0 0 9 9 đào_trinh_nhất ( 1900-1951 ) , tự quán_chi , là nhà_văn , nhà_báo việt_nam giữa thế_kỷ 20
+2 0 0 20 20 vũ_đình_chí ( 1900 – 1986 ) , thường được biết với bút_danh tam_lang , là một trong những nhà_văn , nhà_báo nổi_tiếng của việt_nam
+3 10 10 18 18 năm 1971 , khi ra tranh_cử lần thứ nhì , ngô_công_đức đã bị chính_quyền nguyễn_văn_thiệu bắt giam ở trà_vinh , sau đó ông phải tị_nạn tại thuỵ_điển , rồi pháp , cho đến tháng 4 năm 1975
+1 0 0 14 14 bùi_thu_hằng đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh hoà_bình gồm có thành_phố hoà_bình và các huyện : đà_bắc , lương_sơn , kim_bôi , kỳ_sơn , được 190
+1 0 0 14 14 bùi_đặng_dũng đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 3 , tỉnh kiên_giang gồm có thành_phố rạch_giá , thị_xã hà_tiên và các huyện : kiên_lương , hòn_đất , phú_quốc , giang_thành , được 333
+1 0 0 14 14 bố_thị_xuân_linh đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh bình_thuận gồm các huyện tuy_phong , bắc_bình , phú_quý , được 142
+3 5 5 9 9 đây là ca_khúc đã được lý_hải ký độc_quyền với nhạc_sĩ này vào tháng 4 năm 2004
+1 0 0 16 16 đặng_hoài_tân hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh bình_định , uỷ_viên uỷ_ban kinh_tế của quốc_hội , chủ_tịch hội nông_dân tỉnh bình_định
+2 0 0 5 5 đông_nhi được vinh_danh là nữ ca_sĩ xuất_sắc nhất ở yan_vpop 20 award
+1 0 0 14 14 bùi_văn_phương đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh ninh_bình gồm có thành_phố ninh_bình và các huyện : nho_quan , gia_viễn , hoa_lư , được 284
+1 0 0 4 4 ngô_thị_thanh_hằng tham_gia ban_chấp_hành đảng_bộ hà_nội liên_tục 15 năm ( 3 khoá xiii , xiv , xv ) , từ năm 2001 đến nay
+3 2 2 8 8 " trường_phái tuấn_ngọc " đã ảnh_hưởng tới nhiều ca_sĩ thế_hệ sau cả ở hải_ngoại cũng như trong nước như nguyên khang , trần_thái_hoà , quang_dũng , xuân_phú
+1 0 0 16 16 danh_út từng là đại_biểu quốc_hội việt_nam khoá 13 nhiệm_kì 2011-2016 , thuộc đoàn đại_biểu quốc_hội tỉnh kiên_giang , phó chủ_tịch hội_đồng dân_tộc của quốc_hội khoá 13
+3 0 0 26 26 đinh_thị_kiều_trinh hiện cư_trú ở số 4 , ngõ 26 , ngách 13 , đường đinh_văn_chất , xóm yên_bình , xã hưng_đông , thành_phố vinh , tỉnh nghệ_an
+1 0 0 10 10 hoàng_văn_trà hiện là phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh phú_yên , trưởng_đoàn đại_biểu quốc_hội tỉnh phú_yên , uỷ_viên uỷ_ban kinh_tế của quốc_hội
+3 2 2 30 30 gia đình phạm_duy có nhiều người trong lãnh_vực nghệ_thuật , ngoài người cha phạm_duy_tốn và anh_trai phạm_duy_khiêm là những nhà_văn có tiếng , còn có anh thứ phạm_duy_nhượng cũng là nhạc_sĩ , tác_giả ca_khúc tà áo văn_quân
+1 0 0 16 16 bế_minh_đức hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh cao_bằng , phó trưởng_đoàn đại_biểu quốc_hội chuyên_trách tỉnh cao_bằng , uỷ_viên hội_đồng dân_tộc của quốc_hội
+3 9 9 12 15 nhưng những con_số không nói hết tất_cả . ông nguyễn_doãn_thắng , tổng_thư_ký hội doanh_nhân trẻ việt_nam cho biết , top 10 sao đỏ năm 2017 đều là những doanh_nhân ấn_tượng , là những tấm gương tiêu_biểu của thế_hệ doanh_nhân trẻ mới
+2 0 0 5 5 phạm_quỳnh_anh là nữ ca_sĩ , diễn_viên người việt_nam , sinh ngày 24 tháng 8 năm 1984 ở thủ_đô hà_nội
+3 5 5 20 20 trong tháng 5/2016 , bà lê_hoàng_diệp_thảo vợ ông vũ đã gửi đơn kiến_nghị đến ubnd tỉnh , văn_phòng tỉnh_uỷ tỉnh bình_dương , đề_nghị thu_hồi giấy chứng_nhận đăng_ký doanh_nghiệp của công_ty cp cà_phê hoà_tan trung_nguyên ngày 21/4/2016
+3 0 0 13 13 hoàng_đức_thắng hiện cư_trú ở khu_phố 5 , phường 5 , thành_phố_đông_hà , tỉnh quảng_trị
+3 1 1 27 27 được nhạc_sĩ dương_thụ đánh_giá " là giọng hát đầy kỹ_thuật nhưng vẫn tình " , và là một trong những ca_sĩ đắt sô nhất dòng nhạc_đỏ , vũ_thắng_lợi lần đầu_tiên được đề_cử " ca_sĩ hát nhạc truyền_thống cách_mạng " tại giải mai_vàng lần thứ 21 bên cạnh những tên_tuổi lớn như trọng_tấn , thanh_thuý và đức tuấn vào cuối năm 2015
+2 0 0 19 19 diệp_văn_cương ( 1862 - 1929 ) , tự thọ_sơn , hiệu yên_sa , bút_hiệu cuồng_sĩ ; là nhà_báo , nhà_giáo việt_nam ở đầu thế_kỷ 20
+1 0 0 16 16 hồ_thị_minh hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh quảng_trị , uỷ_viên hội_đồng dân_tộc của quốc_hội , trưởng ban tuyên_giáo huyện_uỷ huyện hướng_hoá , tỉnh quảng_trị
+1 0 0 7 7 đặng_hoài_tân đang làm_việc ở hội nông_dân tỉnh bình_định
+1 9 9 17 17 sáng 9/12/2015 , kỳ họp thứ 15 hđnd tỉnh thái_nguyên khoá 12 đã bỏ_phiếu kín để bầu bùi_xuân_hoà , phó bí_thư thường_trực tỉnh_uỷ thái_nguyên giữ chức_vụ chủ_tịch hđnd tỉnh thái_nguyên khoá 12 , nhiệm_kỳ 2011 - 2016 với tỷ_lệ đạt 94,12 %
+2 0 0 12 12 trọng_tấn ( sinh ngày 19 tháng 01 năm 1976 ) là một ca_sĩ việt_nam người thanh_hoá có sở_trường là các nhạc_phẩm truyền_thống và cách_mạng , có chất giọng tenor ( nam_cao )
+1 5 5 21 21 ngày 29/6/2016 , hđnd tỉnh hưng_yên khoá xvi nhiệm_kỳ 2016-2021 tổ_chức kỳ họp thứ nhất miễn_nhiệm chức_vụ chủ_tịch hđnd tỉnh đối_với đỗ_tiến_sỹ
+2 0 0 6 6 trúc_hồ sinh năm 1964 là một nhạc_sĩ , nghệ_sĩ soạn hoà_âm người mỹ gốc việt hiện ở hoa_kỳ
+1 0 0 6 6 cao_văn_trọng hiện là chủ_tịch uỷ_ban_nhân_dân tỉnh bến_tre , đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh bến_tre , trưởng_đoàn đại_biểu quốc_hội tỉnh bến_tre , uỷ_viên uỷ_ban tài_chính , ngân_sách của quốc_hội
+1 0 0 14 14 đinh_duy_vượt đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 2 , tỉnh gia_lai gồm có thị_xã an_khê và các huyện : kbang , kông_chro , đăk_pơ , mang_yang , đăk_đoa , được 192
+3 3 5 7 7 năm 1688 , viện đại_học cambridge bầu newton vào quốc_hội đại_diện cho viện .
+2 17 17 20 20 lê trung_thành ( sinh ngày 13 tháng 10 năm 1997 ) , được biết tới với nghệ_danh erik là một ca_sĩ và vũ_công
+1 16 16 22 22 trong những năm công_tác ở liên_khu 5 giai_đoạn sau 1948 , trên đường đi công_tác từ quảng_ngãi vào tam_quan , bình_định , suzuki_choji hay nghỉ_chân nơi quán nước bên đường của cô nguyễn_thị_minh_lệ ( sinh ngày 15-1-1922 , con thứ 5 trong số 10 người con của một gia_đình giàu_có tiếng những năm đầu thế_kỷ 20 của xứ dừa tam_quan , bình_định )
+2 0 0 13 13 trần_văn_trạch ( 1924 - 1994 ) , tên thật là trần_quan_trạch , là nhạc_sĩ , ca_sĩ việt_nam
+2 0 0 14 14 hứa_vĩ_văn ( sinh ngày 25 tháng 12 năm 1979 ) là nam người_mẫu , ca_sĩ và diễn_viên người việt_nam
+1 5 5 18 18 ngày 1/7/2016 , hội_đồng_nhân_dân tỉnh cao_bằng khoá xvi , nhiệm_kỳ 2016-2021 tổ_chức kỳ họp thứ nhất bầu ông hoàng_xuân_ánh , phó bí_thư tỉnh_uỷ , chủ_tịch uỷ_ban_nhân_dân tỉnh khoá xv tái đắc_cử chức_vụ chủ_tịch uỷ_ban_nhân_dân tỉnh khoá xvi , nhiệm_kỳ 2016-2021
+2 11 11 16 16 cho đến nay , các hãng đĩa vẫn nhắc đến tên ngọc_sơn như một trong những ca_sĩ có lượng băng_đĩa bán ra nhiều nhất
+3 5 5 35 35 đàm phát_hành năm 2005 , đàm_vĩnh_hưng đã chọn thể_hiện ca_khúc " em đã quên một dòng sông " , ghi trên vỏ bìa là của tác_giả hải_triều , nhưng thật_ra đây là một ca_khúc của nhạc_sĩ hải_ngoại trúc_hồ mà lúc đó chưa xin phép tác_giả
+1 6 6 16 16 ngày 29/9/2015 , ban_chấp_hành đảng_bộ tỉnh đồng_nai khoá x đã tổ_chức hội_nghị lần thứ nhất bầu đinh_quốc_thái tiếp_tục giữ chức phó bí_thư tỉnh_uỷ đồng_nai nhiệm_kỳ 2015-2020
+1 0 0 16 16 cao_đình_thưởng hiện là đại_biểu quốc_hội việt_nam khoá xiv nhiệm_kì 2016-2021 , thuộc đoàn đại_biểu quốc_hội tỉnh phú_thọ , phó trưởng_đoàn chuyên_trách đoàn đại_biểu quốc_hội tỉnh phú_thọ , uỷ_viên uỷ_ban văn_hoá , giáo_dục , thanh_niên , thiếu_niên và nhi_đồng của quốc_hội
+1 0 0 6 6 chu_lé_chừ từng là đại_biểu hội_đồng_nhân_dân tỉnh lai_châu nhiệm_kỳ 2011-2016
+1 0 0 12 12 nguyễn_xuân_đông từng đảm_nhiệm các chức_vụ giám_đốc sở nông_nghiệp và phát_triển nông_thôn tỉnh hà_nam ; bí_thư huyện_uỷ bình_lục ; phó chủ_tịch uỷ_ban_nhân_dân tỉnh hà_nam
+3 8 8 12 12 tuy nhiên , chỉ 1 năm sau , hà_dũng được cử sang liên_xô để học bậc đại_học và tốt_nghiệp năm 1979
+1 0 0 8 10 dương_tấn_quân đang làm_việc ở bệnh_viện bà_rịa , tỉnh bà_rịa - vũng_tàu
+3 7 7 17 17 ngoài hai danh_ca trên , còn nhiều ca_sĩ thể_hiện thành_công cũng như gặt_hái tên_tuổi từ dòng nhạc phạm_duy như duy_khánh với những bài đậm màu dân_ca : nhớ người thương_binh , bà mẹ phù_sa , về miền trung , con đường_cái_quan , mẹ việt_nam , ngày trở về ,
+3 4 4 17 17 bên cạnh đó , hoài_lâm cũng tự thu âm một_số ca_khúc nhạc trẻ cover lại của một_số ca_sĩ nổi_tiếng
+3 5 5 27 27 cũng trong năm 2015 , vũ_thắng_lợi còn giành huy_chương vàng huy cuộc thi nghệ_thuật ca_múa nhạc chuyên_nghiệp toàn_quốc 2015 khi thể_hiện ca_khúc " tướng_quân võ_nguyên_giáp " của nhạc_sĩ bùi_hoàng_yến
+3 9 9 13 13 năm 1972 , khi phong_trào karatedo ở huế và đà_nẵng phát_triển vững_vàng , suzuki_choji giao cho các học_trò điều_hành võ_đường rồi vào sài_gòn , làm giám_đốc khách_sạn kiyo ở khánh_hội
+2 0 0 18 18 tiên_cookie , tên thật là nguyễn_thuỷ_tiên ( sinh ngày 26 tháng 2 năm 1994 ) là nhạc_sĩ , ca_sĩ người việt_nam
+2 16 17 27 27 tại lễ trao giải sóng xanh 2015 diễn ra tối 18/12 tại sân_khấu lan_anh tp_hcm , sơn_tùng m-tp đã đạt được 3 giải_thưởng : " top 10 nhạc_sĩ được yêu thích " , " top 5 ca_sĩ được yêu thích - bảng trẻ " , và " single của năm " cho đĩa đơn thầm bên em
+2 22 22 27 27 với cuộc thi này , cô đã lọt vào vòng chung_kết và đoạt giải khuyến_khích , một thành_tích khá khích_lệ đối_với một ca_sĩ mới vào nghề như đoan_trang
+1 11 11 20 20 sáng ngày 1/7/2016 , tại kỳ họp thứ nhất hội_đồng_nhân_dân tỉnh kiên_giang khoá ix , nhiệm_kỳ 2016-2021 , đã bầu đặng_tuyết_em , phó bí_thư thường_trực tỉnh_uỷ , chủ_tịch hội_đồng_nhân_dân tỉnh kiên_giang khoá viii tiếp_tục được giữ chức_vụ chủ_tịch hội_đồng_nhân_dân khoá ix , nhiệm_kỳ 2016 - 2021 , với tỷ_lệ 98,41% phiếu bầu
+1 0 0 14 14 dương_văn_thống đã trúng_cử đại_biểu quốc_hội năm 2016 ở đơn_vị bầu_cử số 1 , tỉnh yên_bái gồm thành_phố yên_bái và các huyện : yên_bình , trấn_yên , lục_yên , được 250
+3 0 0 16 16 đinh_duy_vượt hiện cư_trú ở số 03b , lê_quý_đôn , phường ia_kring , thành_phố pleiku , tỉnh gia_lai
+3 0 0 11 13 nguyễn_xuân_sơn tốt_nghiệp đại_học chuyên_ngành vật_giá và trường đào_tạo cán_bộ dầu_khí của đại_học kinh_tế quốc_dân
+1 0 0 6 6 dương_ngọc_long từng là chủ_tịch uỷ_ban_nhân_dân tỉnh thái_nguyên ( 2011-2015 ) và phó bí_thư tỉnh_uỷ thái_nguyên
+1 3 3 8 8 năm 1929 , ngô_đình_diệm được bổ_nhiệm tỉnh_trưởng tỉnh bình_thuận
+1 0 0 8 8 cầm_thị_mẫn đang làm_việc ở đoàn đại_biểu quốc_hội tỉnh thanh_hoá
+3 4 4 11 11 chất giọng tốt của vũ_thắng_lợi nhận được đánh_giá tích_cực từ nhiều nhạc_sĩ , ngoài_ra còn có từ ca_sĩ đức_tuấn , và đặc_biệt anh trở_thành cặp song_ca nhạc_đỏ nổi_tiếng với ca_sĩ uyên_linh
+2 0 0 23 23 hoài_lâm ( hay võ nguyễn_hoài_lâm , tên thật : nguyễn_tuấn_lộc , sinh ngày 01 tháng 7 năm 1995 tại vĩnh_long ) là một ca_sĩ , diễn_viên việt_nam
+1 11 11 16 16 ngày 22/6/2016 , tại kỳ họp thứ nhất , hội_đồng_nhân_dân tỉnh đồng_tháp khoá ix đã bầu phan_văn_thắng giữ chức chủ_tịch hội_đồng_nhân_dân tỉnh đồng_tháp khoá ix , nhiệm_kỳ 2016-2021 , với 95,23% tổng_số phiếu
+2 0 0 14 14 minh_vương hay còn gọi là minh_vương m4u ( sinh năm 1984 ) là nam ca_sĩ và nhạc_sĩ nhạc trẻ của việt_nam , thuộc sở_trường pop ballad
+3 13 13 21 21 ở trong nước , giáo_sư , tskh cơ_học nguyễn_văn_đạo là học_trò của giáo_sư nguyễn_cảnh_toàn thời ông học đại_học tại đại_học sư_phạm hà_nội
+2 0 0 14 14 sỹ_luân ( sinh ngày 5 tháng 5 năm 1982 ) là một nhạc_sĩ , ca_sĩ , mc và cũng là một diễn_viên việt_nam
+2 22 22 23 23 trả lời với phóng_viên báo đất việt , đồng_chí cảnh_vệ trong tang_lễ đại_tướng võ_nguyên_giáp nói : " trước khi đến viếng , ca_sĩ đàm_vĩnh_hưng đã liên_lạc trước , thành_ra là khách nên được ưu_tiên "
+2 0 0 16 16 bảo_anh tên đầy_đủ là nguyễn_hoài_bảo_anh ( sinh ngày 3 tháng 9 năm 1992 ) là nữ ca_sĩ , diễn_viên người việt_nam
+3 4 4 10 10 cùng thời_gian đó , osho đã đi du_thuyết khắp_nơi ở ấn_độ tranh_luận công_khai với nhiều đạo sư các_tông phái chính_thống khác , cật_vấn họ về những tín_ngưỡng truyền_thống đương_thời , và gặp_mặt nhiều người từ mọi tầng_lớp , chức_vụ thượng_lưu đến bình_dân hạ_tiện .
+3 0 0 23 23 đỗ_thành_trung hiện là chủ_tịch tập_đoàn indevco , một trong những doanh_nghiệp tư_nhân được xếp_hạng vnr 500 - top 500 doanh_nghiệp tư_nhân lớn nhất việt_nam năm 2010
+3 4 4 10 10 nơi hành_đạo của ông đạo_dừa trước_đây là cồn phụng , bến_tre

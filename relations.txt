@@ -1,0 +1,4 @@
+0 Quê-Quán
+1 Nơi-Làm-Việc
+2 Nghề-Nghiệp
+3 Khác
