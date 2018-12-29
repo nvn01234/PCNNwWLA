@@ -154,6 +154,7 @@ def main(*args):
 
     timestamp = int(datetime.now().timestamp())
     output_folder = "output/test/%d" % timestamp
+    os.makedirs(output_folder, exist_ok=True)
     print("output folder: %s" % output_folder)
     output_file = os.path.join(output_folder, 'output.txt')
     error_list_file = os.path.join(output_folder, 'error_list.txt')
