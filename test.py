@@ -1,5 +1,6 @@
 import os
 import sys
+from datetime import datetime
 
 import numpy as np
 
@@ -123,6 +124,8 @@ class Encoder:
 
 
 def main(*args):
+    assert len(args) >= 2
+
     word_embeddings = np.load("embedding/word_embeddings.npy")
     position_embeddings_1 = np.load("embedding/position_embeddings_1.npy")
     position_embeddings_2 = np.load("embedding/position_embeddings_2.npy")
@@ -130,25 +133,28 @@ def main(*args):
 
     from models import build_model
     model = build_model(embeddings)
-    model.load_weights("weights.h5")
+    weights_path = args[0]
+    model.load_weights(weights_path)
 
     dis2idx_1 = json_load("embedding/dis2idx_1.json")
     dis2idx_2 = json_load("embedding/dis2idx_2.json")
     word2idx = json_load("embedding/word2idx.json")
     encoder = Encoder(word2idx, dis2idx_1, dis2idx_2)
 
-    input_file = args[0] if len(args) > 0 else "input.txt"
+    input_file = args[1]
     sentences, y = read_input(input_file)
     data = list(map(list, zip(*[s.generate_features(encoder) for s in sentences])))
 
     scores = model.predict(data, verbose=False)
     predictions = scores.argmax(-1)
-    idx2relation = read_relations("relations.txt")
+    idx2relation = read_relations("origin_data/relations.txt")
     outputs = ["{} {}".format(prediction, idx2relation[prediction]) for prediction in predictions]
 
     print("\n".join(outputs))
 
-    output_folder = args[1] if len(args) > 1 else "output"
+    timestamp = int(datetime.now().timestamp())
+    output_folder = "output/test/%d" % timestamp
+    print("output folder: %s" % output_folder)
     output_file = os.path.join(output_folder, 'output.txt')
     error_list_file = os.path.join(output_folder, 'error_list.txt')
     error_predictions_file = os.path.join(output_folder, 'error_predictions.txt')
